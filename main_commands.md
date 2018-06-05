@@ -51,10 +51,16 @@ paste0("X", seq(1,5), collapse = " + ")
 
 ### Useful External Similar Exercises
 
+Dplyr-esque Options
+
 [dplyr <-> pandas](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
+
 [R to Python wrangling](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
+
 [summary of 3 piping options in pandas](http://fastml.com/piping-in-r-and-in-pandas/)
+
 [use of dfply package to pipe](https://towardsdatascience.com/dplyr-style-data-manipulation-with-pipes-in-python-380dcb137000)
+
 [use of pandas-ply package to pipe](https://pythonhosted.org/pandas-ply/)
 
 Plotting Package Comparison and Discussion
